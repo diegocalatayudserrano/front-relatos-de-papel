@@ -1,0 +1,40 @@
+.banner {
+    background-image: url("../assets/biblioteca.jpg");
+    height: 350px;
+    background-size: cover; 
+    background-position: center;  
+    background-repeat: no-repeat;
+}
+
+.footer {
+    height: 50px;
+}
+  
+
+.bg-color-custom {
+    background-color: #594943;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.text-custom {
+    color: #594943;
+}
+
+.book {
+    height: 200px;
+    width: 150px;
+}
+
+.book-cart-item {
+    height: 100px;
+    width: 75px;
+}
+
+.book-detail {
+    height: 420px;
+    width: 350px;
+    background-color: black;
+}
